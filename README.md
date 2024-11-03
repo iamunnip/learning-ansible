@@ -1,2 +1,1 @@
-# learning-ansible
 Learning Ansible
